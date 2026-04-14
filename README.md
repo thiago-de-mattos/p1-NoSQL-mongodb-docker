@@ -23,21 +23,21 @@ Usar o banco do exercício:
 
 JavaScript
 use escola;
-📋 Atividades Realizadas
+## 📋 Atividades Realizadas
 O projeto consistiu na criação de uma collection alunos com 5 registros e a execução das seguintes consultas:
 
-Listar todos: Consulta geral de todos os alunos.
+**Listar todos:** Consulta geral de todos os alunos.
 
-Filtro por Curso: Busca de alunos matriculados em "ADS".
+**Filtro por Curso:** Busca de alunos matriculados em "ADS".
 
-Filtro por Idade: Alunos com mais de 21 anos.
+**Filtro por Idade:** Alunos com mais de 21 anos.
 
-Atualização: Alteração de idade de um aluno específico.
+**Atualização:** Alteração de idade de um aluno específico.
 
-Array de Notas: Adição de um novo elemento ao campo de notas.
+**Array de Notas:** Adição de um novo elemento ao campo de notas.
 
-Remoção: Exclusão de um registro do banco.
+**Remoção:** Exclusão de um registro do banco.
 
-Média Simples: Cálculo da média de notas por aluno usando $avg.
+**Média Simples:** Cálculo da média de notas por aluno usando $avg.
 
-Agrupamento: Quantidade de alunos por curso usando $group e $sum.
+**Agrupamento:** Quantidade de alunos por curso usando $group e $sum.
